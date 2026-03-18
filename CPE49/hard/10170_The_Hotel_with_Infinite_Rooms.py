@@ -1,0 +1,1 @@
+#This Question can not be solved using python!!!!! Please Usee C++
